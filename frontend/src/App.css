@@ -1,0 +1,15 @@
+.logo{
+    height: 60px;
+}
+
+.ipfields{
+    width: 90%;
+    border: 2px solid black;
+    border-radius: 20px;
+}
+
+.heading{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 50px;
+    font-weight: bold;
+}
